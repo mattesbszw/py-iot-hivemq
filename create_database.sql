@@ -12,7 +12,7 @@ values
  ('Sensors General', 'bszw/mat/sensors/general'),
  ('DHT22 Temperature', 'bszw/mat/sensors/dht/temp'),
  ('DHT22 Humdidty', 'bszw/mat/sensors/dht/hum'),
- ('DS18B20 Temperature', 'bszw/mat/sensors/ds/hum'),
+ ('DS18B20 Temperature', 'bszw/mat/sensors/ds/temp'),
  ('Reed Contact Garage', 'bszw/mat/sensors/reed/garage'),
  ('Reed Window Kitchen', 'bszw/mat/sensors/reed/kitchen'),
  ('Shelly1 Office Status', 'bszw/mat/sensors/shelly/office/status'),
